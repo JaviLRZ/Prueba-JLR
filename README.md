@@ -1,5 +1,6 @@
 # Prueba-JLR
-![GitHub Logo](C:\Users\JaviLR\Desktop\TGH\logo.png)
+![GitHub Logo](Desktop\TGH\logo.png)
+Format: ![Alt Text](url)
 
 
 Hola estoy editando esto!!!!
@@ -10,7 +11,7 @@ Hola estoy editando esto!!!!
 #### hola
 ##### adios
 ###### hola de nuevo
-####### profe si lees esto me pones un 10
+###### profe si lees esto me pones un 10
 
 
 1. Item 1
