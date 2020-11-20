@@ -9,6 +9,8 @@ Hola estoy editando esto!!!!
 ### hola
 #### hola
 ##### adios
+###### hola de nuevo
+####### profe si lees esto me pones un 10
 
 
 1. Item 1
