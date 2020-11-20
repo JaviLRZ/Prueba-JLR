@@ -1,6 +1,5 @@
 # Prueba-JLR
-![GitHub Logo](Desktop\TGH\logo.png)
-Format: ![Alt Text](url)
+![Mercadona](Desktop\TGH\logo.png)
 
 
 Hola estoy editando esto!!!!
@@ -14,8 +13,8 @@ Hola estoy editando esto!!!!
 ###### profe si lees esto me pones un 10
 
 
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+1. Mercadona
+1. Croquetas
+1. Empanada
+   1. Atun
+   1. Carne
