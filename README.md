@@ -1,5 +1,5 @@
 # Prueba-JLR
-![GitHub Logo](C:\Users\JaviLR\Desktop\TGHlogo.png)
+![GitHub Logo](C:\Users\JaviLR\Desktop\TGH\logo.png)
 
 
 Hola estoy editando esto!!!!
